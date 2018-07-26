@@ -1,16 +1,10 @@
 {
-  "name": "esy-minimal-ocamlbuild-project",
+  "name": "esy-minimal-merlin-project",
   "version": "0.1.0",
   "description": "Reason workflow with Esy",
   "license": "MIT",
   "esy": {
-    "build": [
-      [
-        "jbuilder",
-        "build",
-        "HelloWorld.exe"
-      ]
-    ],
+    "build": [],
     "buildsInSource": "_build"
   },
   "peerDependencies": {
