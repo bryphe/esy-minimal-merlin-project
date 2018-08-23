@@ -8,10 +8,10 @@
     "buildsInSource": "_build"
   },
   "peerDependencies": {
-    "ocaml": "esy-ocaml/ocaml#6aacc05"
+    "ocaml": "bryphe/ocaml#8db025dce"
   },
   "devDependencies": {
-    "ocaml": "esy-ocaml/ocaml#6aacc05"
+    "ocaml": "bryphe/ocaml#8db025dce"
   }, 
   "dependencies": {
     "@opam/merlin": "*"
